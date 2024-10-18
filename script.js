@@ -9,5 +9,6 @@ console.log(name);
 console.log(lastname);
 console.log(age);
 console.log(email);
-console.log("%c592011069", "color:red");
-console.log("%ctrue", "color:yellow");
+console.error(phone)
+console.warn(adultBoolean)
+
